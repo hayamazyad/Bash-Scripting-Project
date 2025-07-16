@@ -5,7 +5,7 @@ The primary objective was to efficiently handle multiple protein structures and 
 <div align="right" style="font-size:16px; color:black; font-family:Segoe UI, sans-serif;">
 Developed by Haya Mazyad
     
-As part of the *Introduction to scipt programming* course
+As part of the *Script programming* course
 </div>
 
 ---
